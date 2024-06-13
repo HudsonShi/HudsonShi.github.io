@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-06-13T10:14:39.895Z</updated>
+  <updated>2024-06-13T10:42:33.101Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>self-intro</title>
+    <link href="http://example.com/2024/06/13/self-intro/"/>
+    <id>http://example.com/2024/06/13/self-intro/</id>
+    <published>2024-06-13T10:41:23.000Z</published>
+    <updated>2024-06-13T10:42:33.101Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Personal-Information"><a href="#Personal-Information" class="headerlink" title="Personal Information"></a>Personal Information</h1><ul><li><strong>Name:</strong> Handa Shi</li><li><strong>Title:</strong> PhD student in Transportation 🚦| Ex-IBMer 🐝| Open Source Evangelist 📖</li><li><strong>Institution:</strong> University of Alabama</li><li><strong>Email:</strong> <a href="shihanda93@gmail.com">shihanda93@gmail.com</a></li><li><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/handa-shi/">My LinkedIn Profile</a></li></ul><hr><h1 id="Research-Areas"><a href="#Research-Areas" class="headerlink" title="Research Areas"></a>Research Areas</h1><p>My research interests primarily focus on the following areas:</p><ul><li>Agent-based Modeling in Transportation 🤖</li><li>Discrete and Integer Optimization in Transportation 🚌</li><li>Complex Networks and Systems Engineering in Transportation 🕸️</li><li>GIS and Spatio-temporal Data Mining in Transportation🗺️</li><li>Computational Social Science and Social DS in Transportation  🌍</li></ul><hr><h1 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h1><ul><li><p><strong>Ph.D., Civil Engineering</strong><br>[ University of Alabama, 2024-Aug ~ 2028-May ]</p></li><li><p><strong>M.E., Civil Engineering</strong><br>[ Stevens Institute of Technology, 2017-Aug ~ 2019-May ]</p></li><li><p><strong>B.E., Traffic Engineering</strong><br>[ Chang’ an University, 2012-Aug ~ 2016-Jun ]</p></li></ul><hr><h1 id="Published-Papers"><a href="#Published-Papers" class="headerlink" title="Published Papers"></a>Published Papers</h1><p>Some representative papers:</p><ol><li>Comparative Analysis of Traffic Characteristics Between China and the United States Based on Taxis as Floating Vehicles - Bachelor’s degree final thesis  📝</li></ol><hr><h1 id="Project-Experience"><a href="#Project-Experience" class="headerlink" title="Project Experience"></a>Project Experience</h1><p>Some notable projects:</p><ul><li><p><strong>Analysis of land use development intensity along the Shenzhen subway</strong>  </p></li><li><p><strong>Intelligent Parking Lot Back-end Management System</strong></p></li></ul><hr><h1 id="Contact-Information"><a href="#Contact-Information" class="headerlink" title="Contact Information"></a>Contact Information</h1><p>If you are interested in my research or collaboration, feel free to contact me through:</p><ul><li><strong>Email:</strong> <a href="shihanda93@gmail.com">shihanda93@gmail.com</a> ✉️</li><li><strong>Office Address:</strong> University of Alabama Civil Engineering Department 3016 Cyber 🏢</li></ul><hr><h1 id="Joined-Organization"><a href="#Joined-Organization" class="headerlink" title="Joined Organization"></a>Joined Organization</h1><ul><li>CCF. ACM. IEEE</li><li>Linux Foundation (APAC). Apache Foundation</li><li>Citipedia (一览众山小-可持续城市与交通)</li><li>GISphere</li><li>O little R.  运小筹</li><li>Baidu Graghic Card Club. Tualatin Club. HiFi Headphone and Earphone Club</li><li>Chiphill</li><li>IGDA.  IndieNOVA. Cow Level. Steam Game Connoisseur</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Personal-Information&quot;&gt;&lt;a href=&quot;#Personal-Information&quot; class=&quot;headerlink&quot; title=&quot;Personal Information&quot;&gt;&lt;/a&gt;Personal Information&lt;/h1&gt;&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
